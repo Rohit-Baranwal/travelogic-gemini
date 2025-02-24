@@ -1,8 +1,7 @@
 # Welcome to AI travel Planner project
 
-## Website Link: 
-            https://travelogic-gemini.netlify.app/
-            
+## Website Link
+https://travelogic-gemini.netlify.app/
 
 ## Project info:
   travelogic-gemini is an intelligent trip planner that helps you design personalized travel itineraries based on your budget. It provides day-wise plans, essential travel tips, real-time flight details, and a live chat interface for instant assistance. Whether you're looking for budget-friendly options or luxury experiences, our AI ensures a seamless and stress-free travel experience.
